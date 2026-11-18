@@ -1,0 +1,4 @@
+print('Odd numbers from 20 to 50')
+for i in range(21,50):
+    if(i % 2 !=2):
+        print(i , '-:ODD numbers between 20 and 50')
